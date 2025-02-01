@@ -1,5 +1,3 @@
----
-
 # MSc Data Science – Applied Data Science Projects
 
 This repository contains two main projects completed during my MSc Data Science program under the module **Applied Data Science**. The work is organized into two folders: **Semester 1** and **Semester 2**.
